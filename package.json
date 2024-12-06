@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.3",
+    "express": "^4.21.2",
     "johnny-five": "^1.4.0",
     "serialport": "^8.0.6",
     "socket.io": "^2.5.0"
